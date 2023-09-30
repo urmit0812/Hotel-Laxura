@@ -37,9 +37,9 @@
 
 1. Homepage
 
-![Website_hotelname](https://github.com/rid17pawar/Hotel-Management/blob/master/readmeImages/homepage1.png)
+![Website_hotelname](https://github.com/urmit0812/Hotel-Laxura/blob/main/readmeImages/homepage1.png)
 
-![Website_rooms](https://github.com/rid17pawar/Hotel-Management/blob/master/readmeImages/homepage2.png)
+![Website_rooms](https://github.com/urmit0812/Hotel-Laxura/blob/main/readmeImages/homepage2.png)
 
 ![Website_halls](https://github.com/rid17pawar/Hotel-Management/blob/master/readmeImages/homepage3.png)
 
