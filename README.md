@@ -1,6 +1,5 @@
 # Hotel-Laxura
-
-
+https://hotel-laxura.vercel.app/
 
 ## Description-
    This website allows customers to book rooms, halls as well as dinner tables in the Hotel. Customer needs to first create his account in website and then he can do booking online. It also provides details about nearby Tourism places. 
